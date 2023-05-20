@@ -1,6 +1,6 @@
 # IcedID Core Module Decoder and Reconstructor
 
-This program will take as input 
+This program will parse the payload IcedID stores on disk, commonly named licence.dat, and will convert this into a PE file that can be analyzed using static methods.
 
 The following sample was used during the development of this reconstructor:
 - IcedID Sample from [Malware Traffic](https://www.malware-traffic-analysis.net/2022/09/23/index.html)
