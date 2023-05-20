@@ -8,3 +8,6 @@ The following sample was used during the development of this reconstructor:
 
 ## Demo
 
+The following is a video demonstration of the reconstructor running:
+
+[![Watch the Demo on Youtube](https://img.youtube.com/vi/pn7OA5pDo3w/maxresdefault.jpg)](https://youtu.be/pn7OA5pDo3w)
